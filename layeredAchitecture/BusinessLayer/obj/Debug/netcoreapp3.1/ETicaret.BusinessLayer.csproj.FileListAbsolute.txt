@@ -1,0 +1,14 @@
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\bin\Debug\netcoreapp3.1\ETicaret.BusinessLayer.deps.json
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\bin\Debug\netcoreapp3.1\ETicaret.BusinessLayer.dll
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\bin\Debug\netcoreapp3.1\ETicaret.BusinessLayer.pdb
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\obj\Debug\netcoreapp3.1\ETicaret.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\obj\Debug\netcoreapp3.1\ETicaret.BusinessLayer.AssemblyInfo.cs
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\obj\Debug\netcoreapp3.1\ETicaret.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\obj\Debug\netcoreapp3.1\ETicaret.BusinessLayer.dll
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\obj\Debug\netcoreapp3.1\ETicaret.BusinessLayer.pdb
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\bin\Debug\netcoreapp3.1\ETicaret.DataAccessLayer.dll
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\bin\Debug\netcoreapp3.1\ETicaret.DataLayer.dll
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\bin\Debug\netcoreapp3.1\ETicaret.DataAccessLayer.pdb
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\bin\Debug\netcoreapp3.1\ETicaret.DataLayer.pdb
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\obj\Debug\netcoreapp3.1\ETicaret.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\borac\source\repos\KatmanliMimari\BusinessLayer\obj\Debug\netcoreapp3.1\ETicaret.BusinessLayer.csproj.CopyComplete

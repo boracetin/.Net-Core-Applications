@@ -1,0 +1,9 @@
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\bin\Debug\netcoreapp3.1\ETicaret.DataLayer.deps.json
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\bin\Debug\netcoreapp3.1\ETicaret.DataLayer.dll
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\bin\Debug\netcoreapp3.1\ETicaret.DataLayer.pdb
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\obj\Debug\netcoreapp3.1\ETicaret.DataLayer.AssemblyInfoInputs.cache
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\obj\Debug\netcoreapp3.1\ETicaret.DataLayer.AssemblyInfo.cs
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\obj\Debug\netcoreapp3.1\ETicaret.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\obj\Debug\netcoreapp3.1\ETicaret.DataLayer.dll
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\obj\Debug\netcoreapp3.1\ETicaret.DataLayer.pdb
+C:\Users\borac\source\repos\KatmanliMimari\DataLayer\obj\Debug\netcoreapp3.1\ETicaret.DataLayer.csprojAssemblyReference.cache
